@@ -1,6 +1,6 @@
 SRC := "src/main.c"
 OUT_DESKTOP := "build/space-invaders"
-OUT_WEB := "build/web/space-invaders.html"
+OUT_WEB := "docs/space-invaders.html"
 
 RAYLIB_WEB := "raylib/src"
 RAYLIB_WEB_LIB := "{{RAYLIB_WEB}}/libraylib.web.a"
